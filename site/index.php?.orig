@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+<title>OpenCaps - Welcome</title>
+
+<base href="http://opencaps.idrc.ocad.ca/site/" />
+<meta name="Generator" content="CMS Made Simple - Copyright (C) 2004-6 Ted Kulp. All rights reserved." />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="opencaps, caption, subtitle, accessible, accessibility, atrc, matterhorn, opencast, captions, subtitles, free, online, php, editor, export, import, caption formats, timed text, dfxp, sami, stl, microdvd, qttext, subrip, subviewer" />
+<meta name="description" content="OpenCaps is a free, web-based, open-source caption and subtitle editor. Our software allows you to create captions and subtitles for your videos quickly and easily, making them accessible to a larger community of users." />
+
+<link rel="stylesheet" type="text/css" href="http://opencaps.idrc.ocad.ca/site/stylesheet.php?cssid=42" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://opencaps.idrc.ocad.ca/site/stylesheet.php?cssid=43&amp;mediatype=screen" />
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="iehacks.css" />
+<![endif]-->
+
+</head>
+<body>
+
+<div style="width:784px; margin-left:auto; margin-right:auto;height:1.1em;">
+
+<div id="skip"><a href="/site/index.php?#content" accesskey="S">Skip to content</a></div>
+<div id="top-links"></div>
+</div>
+
+<div id="header">
+<div style="float:left"><h1><a href="http://opencaps.atrc.utoronto.ca/"><img src="uploads/images/opencaps_logo.png" alt="OpenCaps - a free, online caption editor" title="OpenCaps - a free, online caption editor" style="border:0px; margin-top:10px;" /></a></h1></div>
+<div style="float:right; text-align:right"><a href="http://atrc.utoronto.ca/"><img src="uploads/images/atrclogo.png" alt="adaptive technology resource centre logo" id="atrclogo" /></a><form id="cntnt01moduleform_1" method="get" action="index.php"><div class="hidden"><input type="hidden" name="mact" value="Search,cntnt01,dosearch,0" /><input type="hidden" name="cntnt01returnid" value="45" /></div>
+
+
+    <input type="text" id="cntnt01searchinput" name="cntnt01searchinput" size="20" maxlength="50" value="Enter Search..." onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;"/> <input name="submit" value="Submit" type="submit" />
+
+</form>
+</div>
+</div>
+
+<div id="container">
+<div id="menu-top">
+<ul>
+	<li class="menuactive"><a class="menuactive" 
+href="http://opencaps.idrc.ocad.ca/site/" >Welcome</a> 
+
+</li>
+	<li><a 
+href="http://opencaps.idrc.ocad.ca/site/index.php?page=features" >Features</a> 
+
+</li>
+	<li><a 
+href="http://opencaps.idrc.ocad.ca/site/index.php?page=download-oc" >Download</a> 
+
+</li>
+	<li><a 
+href="http://opencaps.idrc.ocad.ca/site/index.php?page=documentation" >Documentation</a> 
+
+</li>
+	<li><a 
+href="http://opencaps.idrc.ocad.ca/site/index.php?page=contact" >Contact</a> 
+
+
+			</li>
+	</ul>
+<div class="clearb"></div>
+</div>
+
+
+
+<div id="content"><a name="content"></a>
+ <h2>Welcome</h2>
+  <p>Welcome! OpenCaps is a free, web-based, open-source caption and subtitle editor. Our software allows you to create captions and subtitles for your videos quickly and easily, making them accessible to a larger community of users.</p>
+
+<h3>About</h3>
+
+<p>The concept for OpenCaps was originally inspired by <a href="http://capscribe.ca">CapScribe</a>, a Mac application designed and created by Charles Silverman. Our goal was to recreate the highly refined and effective captioning experience CapScribe offers, but make it readily available online, for users on all platforms and operating systems. </p>
+
+<h3>Matterhorn Plugin</h3>
+
+<p>OpenCaps will be useable as a plugin for the upcoming <a href="http://www.opencastproject.org/project/matterhorn">Matterhorn Project</a>. Videos ingested into the Matterhorn system will be easily captionable via OpenCaps.</p>
+
+<h3>Release Schedule</h3>
+
+<p><strong>Preview</strong> - A <a href="../demo">demo</a> is always available as a quick preview of our software. Keep in mind this is a working example and is continually being developed and updated.</p>
+
+<p><strong>Beta</strong> - Released February 8th, 2010 and available for download.</p> 
+
+<p><strong>Version 1.0</strong> - Scheduled release for July. A stable version of the beta release, with  <a href="http://opencaps.idrc.ocad.ca/site/index.php?page=features" title="Features">extra features</a>.</p>
+
+<h3>Stay Tuned!</h3>
+<p>OpenCaps is continually evolving and expanding and this website will grow with it. Please check back soon to find out about upcoming features, support, and ways to contribute to the project.</p>
+
+<h2>Why Caption?</h2>
+<ol>
+<li>Captions  compensate for noisy backgrounds or where sound isn't allowed.</li>
+<li> They provide a solution for poor audio quality</li>
+<li>Quickly browse the video by reading the associated text as you drag the controller as the captions are always visible</li>
+<li>Everyone can see the correct spellings of people, places, and things. </li>
+<li>Catch details that normally slide by unnoticed.</li>
+<li>Meet the Web Accessibility  guidelines, along with any state, provincial and federal requirements. </li>
+<li>Use captioning to provide alternate language tracks</li>
+<li>Provide additional support for people who are learning English as a second language. </li>
+<li>Make your content fully accessible to people who have hearing loss. </li>
+<li>Video on the web can even look better when the captioning is on. </li>
+</ol>
+
+<p>List contributed by <a href="http://www.inclusivemedia.ca">C. Silverman</a>.</p>
+</div>
+
+<div id="footer">
+   <p style="text-align:center">Copyright © Adaptive Technology Resource Centre, 2009-2010</p>
+</div>
+
+</div>
+
+</body>
+</html><!-- 0.111735 / 33 / 14821944 / 15258008 -->
