@@ -3,14 +3,14 @@
 <head>
 <title>OpenCaps - Welcome</title>
 
-<base href="http://opencaps.idrc.ocad.ca/site/" />
+<base href="/site/" />
 <meta name="Generator" content="CMS Made Simple - Copyright (C) 2004-6 Ted Kulp. All rights reserved." />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="opencaps, caption, subtitle, accessible, accessibility, atrc, matterhorn, opencast, captions, subtitles, free, online, php, editor, export, import, caption formats, timed text, dfxp, sami, stl, microdvd, qttext, subrip, subviewer" />
 <meta name="description" content="OpenCaps is a free, web-based, open-source caption and subtitle editor. Our software allows you to create captions and subtitles for your videos quickly and easily, making them accessible to a larger community of users." />
 
-<link rel="stylesheet" type="text/css" href="http://opencaps.idrc.ocad.ca/site/stylesheet.php?cssid=42" />
-<link rel="stylesheet" type="text/css" media="screen" href="http://opencaps.idrc.ocad.ca/site/stylesheet.php?cssid=43&amp;mediatype=screen" />
+<link rel="stylesheet" type="text/css" href="/site/stylesheet.php?cssid=42" />
+<link rel="stylesheet" type="text/css" media="screen" href="/site/stylesheet.php?cssid=43__mediatype=screen" />
 
 <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="iehacks.css" />
@@ -40,23 +40,23 @@
 <div id="menu-top">
 <ul>
 	<li class="menuactive"><a class="menuactive" 
-href="http://opencaps.idrc.ocad.ca/site/" >Welcome</a> 
+href="/site/" >Welcome</a> 
 
 </li>
 	<li><a 
-href="http://opencaps.idrc.ocad.ca/site/index.php?page=features" >Features</a> 
+href="/site/index.php?page=features" >Features</a> 
 
 </li>
 	<li><a 
-href="http://opencaps.idrc.ocad.ca/site/index.php?page=download-oc" >Download</a> 
+href="/site/index.php?page=download-oc" >Download</a> 
 
 </li>
 	<li><a 
-href="http://opencaps.idrc.ocad.ca/site/index.php?page=documentation" >Documentation</a> 
+href="/site/index.php?page=documentation" >Documentation</a> 
 
 </li>
 	<li><a 
-href="http://opencaps.idrc.ocad.ca/site/index.php?page=contact" >Contact</a> 
+href="/site/index.php?page=contact" >Contact</a> 
 
 
 			</li>
@@ -84,7 +84,7 @@ href="http://opencaps.idrc.ocad.ca/site/index.php?page=contact" >Contact</a>
 
 <p><strong>Beta</strong> - Released February 8th, 2010 and available for download.</p> 
 
-<p><strong>Version 1.0</strong> - Scheduled release for July. A stable version of the beta release, with  <a href="http://opencaps.idrc.ocad.ca/site/index.php?page=features" title="Features">extra features</a>.</p>
+<p><strong>Version 1.0</strong> - Scheduled release for July. A stable version of the beta release, with  <a href="/site/index.php?page=features" title="Features">extra features</a>.</p>
 
 <h3>Stay Tuned!</h3>
 <p>OpenCaps is continually evolving and expanding and this website will grow with it. Please check back soon to find out about upcoming features, support, and ways to contribute to the project.</p>

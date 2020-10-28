@@ -3,14 +3,14 @@
 <head>
 <title>OpenCaps - Contact</title>
 
-<base href="" />
+<base href="/site/" />
 <meta name="Generator" content="CMS Made Simple - Copyright (C) 2004-6 Ted Kulp. All rights reserved." />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="opencaps, caption, subtitle, accessible, accessibility, atrc, matterhorn, opencast, captions, subtitles, free, online, php, editor, export, import, caption formats, timed text, dfxp, sami, stl, microdvd, qttext, subrip, subviewer" />
 <meta name="description" content="OpenCaps is a free, web-based, open-source caption and subtitle editor. Our software allows you to create captions and subtitles for your videos quickly and easily, making them accessible to a larger community of users." />
 
-<link rel="stylesheet" type="text/css" href="stylesheet.php%3Fcssid=42.css" />
-<link rel="stylesheet" type="text/css" media="screen" href="stylesheet.php%3Fcssid=43&amp;mediatype=screen.css" />
+<link rel="stylesheet" type="text/css" href="/site/stylesheet.php?cssid=42" />
+<link rel="stylesheet" type="text/css" media="screen" href="/site/stylesheet.php?cssid=43__mediatype=screen" />
 
 <!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="iehacks.css" />
@@ -21,13 +21,13 @@
 
 <div style="width:784px; margin-left:auto; margin-right:auto;height:1.1em;">
 
-<div id="skip"><a href="index.php%3Fpage=contact.html#content" accesskey="S">Skip to content</a></div>
+<div id="skip"><a href="/site/index.php?page=contact#content" accesskey="S">Skip to content</a></div>
 <div id="top-links"></div>
 </div>
 
 <div id="header">
 <div style="float:left"><h1><a href="http://opencaps.atrc.utoronto.ca/"><img src="uploads/images/opencaps_logo.png" alt="OpenCaps - a free, online caption editor" title="OpenCaps - a free, online caption editor" style="border:0px; margin-top:10px;" /></a></h1></div>
-<div style="float:right; text-align:right"><a href="http://atrc.utoronto.ca/"><img src="uploads/images/atrclogo.png" alt="adaptive technology resource centre logo" id="atrclogo" /></a><form id="cntnt01moduleform_1" method="get" action="http://opencaps.idrc.ocad.ca/site/index.php"><div class="hidden"><input type="hidden" name="mact" value="Search,cntnt01,dosearch,0" /><input type="hidden" name="cntnt01returnid" value="49" /></div>
+<div style="float:right; text-align:right"><a href="http://atrc.utoronto.ca/"><img src="uploads/images/atrclogo.png" alt="adaptive technology resource centre logo" id="atrclogo" /></a><form id="cntnt01moduleform_1" method="get" action="index.php"><div class="hidden"><input type="hidden" name="mact" value="Search,cntnt01,dosearch,0" /><input type="hidden" name="cntnt01returnid" value="49" /></div>
 
 
     <input type="text" id="cntnt01searchinput" name="cntnt01searchinput" size="20" maxlength="50" value="Enter Search..." onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;"/> <input name="submit" value="Submit" type="submit" />
@@ -40,23 +40,23 @@
 <div id="menu-top">
 <ul>
 	<li><a 
-href="index.html" >Welcome</a> 
+href="/site/" >Welcome</a> 
 
 </li>
 	<li><a 
-href="index.php%3Fpage=features.html" >Features</a> 
+href="/site/index.php?page=features" >Features</a> 
 
 </li>
 	<li><a 
-href="index.php%3Fpage=download-oc.html" >Download</a> 
+href="/site/index.php?page=download-oc" >Download</a> 
 
 </li>
 	<li><a 
-href="index.php%3Fpage=documentation.html" >Documentation</a> 
+href="/site/index.php?page=documentation" >Documentation</a> 
 
 </li>
 	<li class="menuactive"><a class="menuactive" 
-href="index.php%3Fpage=contact.html" >Contact</a> 
+href="/site/index.php?page=contact" >Contact</a> 
 
 
 			</li>
@@ -91,4 +91,4 @@ Fax: (416) 971-2629</p>
 </div>
 
 </body>
-</html><!-- 0.069914 / 16 / 12936720 / 13361784 -->
+</html><!-- 0.079559 / 16 / 12936720 / 13361784 -->
